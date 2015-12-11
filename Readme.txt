@@ -1,1 +1,3 @@
-Hey! there i am new to github.
+Hi, 
+I am not new to github.
+This is a squash test.
